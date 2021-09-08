@@ -1,0 +1,2 @@
+Geom_Bounds    Population    MaxGenerations    EliteCount    Max_GR
+0		50   	30   	5   	-50
